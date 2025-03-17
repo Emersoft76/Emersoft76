@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🌍 Network Manager | Cloud Computing Enthusiast ☁️  
 
-<!--
-**Emersoft76/Emersoft76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Networking, Cloud, and Emerging Technologies**  
+🎯 Focused on **AWS Infrastructure, Automation, and High Availability**  
 
-Here are some ideas to get you started:
+## 🔹 Technologies I Work With  
+✅ **Cloud & DevOps** → AWS, Terraform, Docker, Kubernetes  
+✅ **Infrastructure** → Storage, Virtualization, Networking  
+✅ **Automation** → CI/CD, GitHub Actions, Python, Bash  
+✅ **Emerging Tech** → AI, Blockchain & Smart Contracts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Featured AWS Projects  
+
+- [AWS Infrastructure with Terraform](https://github.com/seuusuario/aws-cloud-projects)  
+- [High Availability Architecture with Auto Scaling](https://github.com/seuusuario/aws-cloud-projects)  
+- [AWS Certification Study Guide](https://github.com/seuusuario/aws-certification-guide)  
+
+📫 **Let’s Connect:** [LinkedIn](https://linkedin.com/in/emersoft-it)
