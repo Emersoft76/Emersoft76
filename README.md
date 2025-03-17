@@ -13,6 +13,6 @@
 
 - [AWS Infrastructure with Terraform](https://github.com/seuusuario/aws-cloud-projects)  
 - [High Availability Architecture with Auto Scaling](https://github.com/seuusuario/aws-cloud-projects)  
-- [AWS Certification Study Guide](https://github.com/seuusuario/aws-certification-guide)  
+- [AWS Certification Study Guide](https://github.com/seuusuario/aws-certification-guide)
 
 📫 **Let’s Connect:** [LinkedIn](https://linkedin.com/in/emersoft-it)
