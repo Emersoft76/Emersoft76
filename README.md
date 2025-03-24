@@ -1,4 +1,4 @@
-# 🌍 Network Manager | Cloud Computing Enthusiast ☁️  
+# 🌍 Network Manager | Cloud Computing ☁️  
 
 🚀 Passionate about **Networking, Cloud, and Emerging Technologies**  
 🎯 Focused on **AWS Infrastructure, Automation, and High Availability**  
