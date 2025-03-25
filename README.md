@@ -1,7 +1,10 @@
-# 🌍 Network Manager | Cloud Computing ☁️  
+🌐 Network Manager | ☁️ AWS-Focused Cloud Computing | ⚙️ Automation (Terraform & CLI) | 🤖 AI | ⛓️ Blockchain & Smart Contracts
 
 🚀 Passionate about **Networking, Cloud, and Emerging Technologies**  
 🎯 Focused on **AWS Infrastructure, Automation, and High Availability**  
+
+Building intelligent, scalable, and secure cloud infrastructures.  
+With a background in **Computer Network Management**, I combine hands-on experience in **cloud architecture (AWS)**, **infrastructure automation**, and emerging technologies like **AI** and **Blockchain** to create modern and efficient solutions.
 
 ## 🔹 Technologies I Work With  
 ✅ **Cloud & DevOps** → AWS, Terraform, Docker, Kubernetes  
