@@ -14,8 +14,8 @@ With a background in **Computer Network Management**, I combine hands-on experie
 
 ## 🔹 Featured AWS Projects  
 
-- [AWS Infrastructure with Terraform](https://github.com/seuusuario/aws-cloud-projects)  
-- [High Availability Architecture with Auto Scaling](https://github.com/seuusuario/aws-cloud-projects)  
-- [AWS Certification Study Guide](https://github.com/seuusuario/aws-certification-guide)
+- [AWS Infrastructure with Terraform](https://github.com/Emersoft76/aws-cloud-projects)
+- [High Availability Architecture with Auto Scaling](https://github.com/Emersoft76/aws-cloud-projects#projeto4-autoscaling-alb)
+- [AWS Certification Study Guide](https://github.com/Emersoft76/aws-certification-guide) <!-- exemplo hipotético -->
 
 📫 **Let’s Connect:** [LinkedIn](https://linkedin.com/in/emersoft-it)
