@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Network & Cloud Infrastructure Engineer</h1>
+<h1 align="center">🌐 Network & Cloud Infrastructure Manager</h1>
 
 <p align="center">
   <strong>Hands-on Labs | AWS Architectures | Linux Systems | Automation | Cybersecurity</strong><br>
