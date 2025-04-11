@@ -90,11 +90,8 @@ Classic and inspiring academic projects developed during my **Computer Network M
   seguindo ordem de execução lógica e padrões de formatação adotados pelo autor.</strong><br><br>
 
   <strong>Projects designed and developed with care and systematic criteria,<br>
-  following logical execution order and personal formatting standards defined by the author.</strong><br><br>
+  following logical execution order and formatting standards defined by the author.</strong><br><br>
 
-  Desenvolvido com dedicação por <strong><a href="https://github.com/Emersoft76" target="_blank">@Emersoft76</a></strong><br>
-  Gestor de Redes com foco em soluções modernas baseadas em Linux, automação e computação em nuvem.<br><br>
-
-  Created with dedication by <strong><a href="https://github.com/Emersoft76" target="_blank">@Emersoft76</a></strong><br>
-  Network Manager focused on modern solutions powered by Linux, automation, and cloud computing.
+  <strong>@Emersoft76</strong> — Gestor de Redes com foco em soluções modernas baseadas em AWS, Linux, automação e computação em nuvem.<br>
+  <strong>@Emersoft76</strong> — Network Manager focused on modern solutions powered by AWS, Linux, automation, and cloud computing.
 </p>
