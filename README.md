@@ -86,8 +86,15 @@ Classic and inspiring academic projects developed during my **Computer Network M
 ---
 
 <p align="center">
-  <strong>Desenvolvido com dedicação por <a href="https://github.com/Emersoft76" target="_blank">@Emersoft76</a></strong><br>
-  Engenheiro de Redes e Infraestrutura com foco em soluções modernas baseadas em Linux, automação e computação em nuvem.<br><br>
-  <strong>Developed with dedication by <a href="https://github.com/Emersoft76" target="_blank">@Emersoft76</a></strong><br>
-  Network & Infrastructure Engineer focused on modern solutions powered by Linux, automation, and cloud computing.
+  <strong>Projetos idealizados e desenvolvidos com esmero e critérios sistemáticos,<br>
+  seguindo ordem de execução lógica e padrões de formatação adotados pelo autor.</strong><br><br>
+
+  <strong>Projects designed and developed with care and systematic criteria,<br>
+  following logical execution order and personal formatting standards defined by the author.</strong><br><br>
+
+  Desenvolvido com dedicação por <strong><a href="https://github.com/Emersoft76" target="_blank">@Emersoft76</a></strong><br>
+  Gestor de Redes com foco em soluções modernas baseadas em Linux, automação e computação em nuvem.<br><br>
+
+  Created with dedication by <strong><a href="https://github.com/Emersoft76" target="_blank">@Emersoft76</a></strong><br>
+  Network Manager focused on modern solutions powered by Linux, automation, and cloud computing.
 </p>
