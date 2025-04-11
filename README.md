@@ -92,6 +92,7 @@ Classic and inspiring academic projects developed during my **Computer Network M
   <strong>Projects designed and developed with care and systematic criteria,<br>
   following logical execution order and formatting standards defined by the author.</strong><br><br>
 
-  <strong>@Emersoft76</strong> — Gestor de Redes com foco em soluções modernas baseadas em AWS, Linux, automação e computação em nuvem.<br>
-  <strong>@Emersoft76</strong> — Network Manager focused on modern solutions powered by AWS, Linux, automation, and cloud computing.
+  <strong>@Emersoft76</strong><br>
+  Gestor de Redes com foco em soluções modernas baseadas em AWS, Linux, automação e computação em nuvem.<br>
+  Network Manager focused on modern solutions powered by AWS, Linux, automation, and cloud computing.
 </p>
