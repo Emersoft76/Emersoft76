@@ -82,9 +82,11 @@ Classic and inspiring academic projects developed during my **Computer Network M
 
 [![GitHub](https://img.shields.io/badge/GitHub-Emersoft76-181717?logo=github)](https://github.com/Emersoft76)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://linkedin.com/in/emersoft-it)  
-[![Email](https://img.shields.io/badge/Email-Contate_me-red?logo=gmail)](mailto: emersoft@outlook.pt)
-
+[![Email](https://img.shields.io/badge/Email-Contate_me-red?logo=gmail)](mailto:emersoft@outlook.pt)
 ---
 
-Desenvolvido com dedicação por **@Emersoft76**  
-_Soluções modernas com base sólida em redes, segurança, automação e nuvem._
+<p align="center">
+  Desenvolvido com dedicação por <strong>@Emersoft76</strong><br>
+  <em>Modern solutions built on a solid foundation in networking, security, automation, and cloud.</em><br>
+  <em>Soluções modernas com base sólida em redes, segurança, automação e nuvem.</em>
+</p>
