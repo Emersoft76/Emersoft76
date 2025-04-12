@@ -29,7 +29,7 @@
 
 ## 🔎 Sobre Mim / About Me  
 
-🚀 Passionate about **Networking, Cloud, Linux Systems and Emerging Technologies**  
+🚀 Passionate about **Networking, Cloud, Linux Systems, and Emerging Technologies**  
 🎯 Focused on **AWS Infrastructure, Automation, and High Availability**
 
 Building intelligent, scalable, and secure cloud infrastructures.  
