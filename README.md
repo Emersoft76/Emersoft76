@@ -1,17 +1,40 @@
 <h1 align="center">🌐 Network & Cloud Infrastructure Manager</h1>
 
 <p align="center">
-  <strong>Hands-on Labs | AWS Architectures | Linux Systems | Automation | AI | Blockchain | Smart Contracts</strong><br>
+  <strong>Hands-on Labs · AWS Architectures · Linux Systems · Automation · AI · Blockchain · Smart Contracts</strong><br>
   <em>Redes, Cloud e Inovação com base sólida em infraestrutura e aprendizado contínuo</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws">
-  <img src="https://img.shields.io/badge/Linux-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Automation-Terraform-blueviolet?logo=terraform">
-  <img src="https://img.shields.io/badge/Monitoring-Zabbix-red?logo=zabbix">
-  <img src="https://img.shields.io/badge/Security-Firewall%2C%20Snort%2C%20Fail2Ban-blue?logo=gnu-bash">
-  <img src="https://img.shields.io/badge/Blockchain-Remix%20IDE-black?logo=ethereum">
+  <!-- Cloud -->
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws" alt="AWS Badge"/>
+  </a>
+  
+  <!-- Linux -->
+  <a href="https://ubuntu.com/server" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu Server Badge"/>
+  </a>
+  
+  <!-- Automation -->
+  <a href="https://developer.hashicorp.com/terraform" target="_blank">
+    <img src="https://img.shields.io/badge/Automation-Terraform-844FBA?logo=terraform" alt="Terraform Badge"/>
+  </a>
+  
+  <!-- Monitoring -->
+  <a href="https://www.zabbix.com" target="_blank">
+    <img src="https://img.shields.io/badge/Monitoring-Zabbix-red?logo=zabbix" alt="Zabbix Badge"/>
+  </a>
+  
+  <!-- Security -->
+  <a href="https://www.snort.org" target="_blank">
+    <img src="https://img.shields.io/badge/Security-Firewall%2C%20Snort%2C%20Fail2Ban-blue?logo=shield" alt="Security Badge"/>
+  </a>
+  
+  <!-- Blockchain -->
+  <a href="https://remix.ethereum.org" target="_blank">
+    <img src="https://img.shields.io/badge/Blockchain-Remix_IDE-black?logo=ethereum" alt="Remix IDE Badge"/>
+  </a>
 </p>
 
 ---
