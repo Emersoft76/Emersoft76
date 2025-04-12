@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Network & Cloud Infrastructure Manager</h1>
 
 <p align="center">
-  <strong>Hands-on Labs | AWS Architectures | Linux Systems | Automation | Cybersecurity</strong><br>
+  <strong>Hands-on Labs | AWS Architectures | Linux Systems | Automation | AI | Blockchain | Smart Contracts</strong><br>
   <em>Redes, Cloud e Inovação com base sólida em infraestrutura e aprendizado contínuo</em>
 </p>
 
@@ -29,7 +29,7 @@
 
 ## 🔎 Sobre Mim / About Me  
 
-🚀 Passionate about **Networking, Cloud, and Emerging Technologies**  
+🚀 Passionate about **Networking, Cloud, Linux Systems and Emerging Technologies**  
 🎯 Focused on **AWS Infrastructure, Automation, and High Availability**
 
 Building intelligent, scalable, and secure cloud infrastructures.  
